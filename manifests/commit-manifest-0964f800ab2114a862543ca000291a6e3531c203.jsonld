@@ -1,0 +1,38 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/NousResearch/curve25519-dalek/commit/0964f800ab2114a862543ca000291a6e3531c203",
+  "@type": "git:Commit",
+  "git:hexsha": "0964f800ab2114a862543ca000291a6e3531c203",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/NousResearch/curve25519-dalek"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/0964f800ab2114a862543ca000291a6e3531c203.nq.gz",
+      "repolex:graphFileSize": 19480
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 1191645
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 496
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 32
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-09T13:23:51.740363+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
