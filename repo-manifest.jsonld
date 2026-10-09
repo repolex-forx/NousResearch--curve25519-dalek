@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/curve25519-dalek/commit/0964f800ab2114a862543ca000291a6e3531c203",
       "git:hexsha": "0964f800ab2114a862543ca000291a6e3531c203",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
